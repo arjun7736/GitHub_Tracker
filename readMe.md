@@ -2,7 +2,7 @@
 it is a cli app to track your github activity
 
 ## clone it by this command
-git clone https://github.com/arjun7736/cli_todo.git
+git clone https://github.com/arjun7736/GitHub_Tracker.git
 
 ## change dir
 cd GitHub_Tracker
