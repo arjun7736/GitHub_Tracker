@@ -7,13 +7,10 @@ git clone https://github.com/arjun7736/GitHub_Tracker.git
 ## change dir
 cd GitHub_Tracker
 
-## make executable by
-chmod +x tracker.js
-
-## link app 
-npm link
+## Download dependencies
+npm i 
 
 ## Run
-tracker
+node tracker.js
 
 https://roadmap.sh/projects/github-user-activity
